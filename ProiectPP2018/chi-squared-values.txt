@@ -1,0 +1,150 @@
+Imagine: peppers.bmp
+R: 529917.10
+G:  606801.97
+B:  1053070.31
+
+Imagine: peppers_enc.bmp
+R: 286.68
+G:  250.71
+B:  226.36
+
+Imagine: test.bmp
+R: 13653913.26
+G:  13875675.57
+B:  13857265.15
+
+Imagine: test_enc.bmp
+R: 261.88
+G:  241.78
+B:  255.16
+
+Imagine: peppers.bmp
+R: 529917.10
+G:  606801.97
+B:  1053070.31
+
+Imagine: peppers_enc.bmp
+R: 286.68
+G:  250.71
+B:  226.36
+
+Imagine: peppers.bmp
+R: 529917.10
+G:  606801.97
+B:  1053070.31
+
+Imagine: peppers_enc.bmp
+R: 286.68
+G:  250.71
+B:  226.36
+
+Imagine: peppers.bmp
+R: 529917.10
+G:  606801.97
+B:  1053070.31
+
+Imagine: peppers_enc.bmp
+R: 286.68
+G:  250.71
+B:  226.36
+
+Imagine: peppers.bmp
+R: 529917.10
+G:  606801.97
+B:  1053070.31
+
+Imagine: peppers_enc.bmp
+R: 286.68
+G:  250.71
+B:  226.36
+
+Imagine: peppers.bmp
+R: 529917.10
+G:  606801.97
+B:  1053070.31
+
+Imagine: peppers_enc.bmp
+R: 286.68
+G:  250.71
+B:  226.36
+
+Imagine: peppers.bmp
+R: 529917.10
+G:  606801.97
+B:  1053070.31
+
+Imagine: peppers_enc.bmp
+R: 286.68
+G:  250.71
+B:  226.36
+
+Imagine: peppers.bmp
+R: 529917.10
+G:  606801.97
+B:  1053070.31
+
+Imagine: peppers_enc.bmp
+R: 286.68
+G:  250.71
+B:  226.36
+
+Imagine: peppers.bmp
+R: 529917.10
+G:  606801.97
+B:  1053070.31
+
+Imagine: peppers_enc.bmp
+R: 286.68
+G:  250.71
+B:  226.36
+
+Imagine: peppers.bmp
+R: 529917.10
+G:  606801.97
+B:  1053070.31
+
+Imagine: peppers_enc.bmp
+R: 286.68
+G:  250.71
+B:  226.36
+
+Imagine: peppers.bmp
+R: 529917.10
+G:  606801.97
+B:  1053070.31
+
+Imagine: peppers_enc.bmp
+R: 286.68
+G:  250.71
+B:  226.36
+
+Imagine: ifri.bmp
+R: 96417208.95
+G:  96632421.82
+B:  96432932.72
+
+Imagine: ifri_criptat.bmp
+R: 236.98
+G:  259.89
+B:  237.33
+
+Imagine: peppers.bmp
+R: 529917.10
+G:  606801.97
+B:  1053070.31
+
+Imagine: peppers_enc.bmp
+R: 286.68
+G:  250.71
+B:  226.36
+
+Imagine: peppers.bmp
+R: 529917.10
+G:  606801.97
+B:  1053070.31
+
+Imagine: peppers_enc.bmp
+R: 286.68
+G:  250.71
+B:  226.36
+

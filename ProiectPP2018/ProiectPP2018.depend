@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1546629090 source:d:\work\proiectpp2018\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"xorshift.h"
+	"imgbmp.h"
+	"criptare.h"
+	"pattern.h"
+
+1546629769 d:\work\proiectpp2018\xorshift.h
+
+1546629799 source:d:\work\proiectpp2018\xorshift.c
+	"xorshift.h"
+	<stdlib.h>
+
+1546615721 d:\work\proiectpp2018\imgbmp.h
+
+1546878120 source:d:\work\proiectpp2018\imgbmp.c
+	"imgbmp.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1546629788 source:d:\work\proiectpp2018\criptare.c
+	"criptare.h"
+	<stdio.h>
+	<stdlib.h>
+
+1546104404 d:\work\proiectpp2018\criptare.h
+	"xorshift.h"
+	"imgbmp.h"
+
+1546625791 source:d:\work\proiectpp2018\pattern.c
+	"pattern.h"
+
+1546616781 d:\work\proiectpp2018\pattern.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"imgbmp.h"
+
